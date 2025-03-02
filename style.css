@@ -205,12 +205,12 @@ h1 {
     transform: translateX(-50%);
 }
 .image-content h2 {
-    top: 60%;
+    top: 55%;
     font-weight: 900;
     font-family: "Fraunces", serif;
 }
 .image-content p {
-    top: 70%;
+    top: 65%;
     font-weight: 600;
 }
 .blue h2,
